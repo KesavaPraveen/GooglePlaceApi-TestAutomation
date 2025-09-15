@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/target/
+/.idea/
+/*.iml
+/out/
+/*.log
+/allure-results/
+/allure-report/
+/.DS_Store
